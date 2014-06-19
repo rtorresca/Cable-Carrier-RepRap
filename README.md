@@ -77,10 +77,11 @@ Proximamente espero tener tiempo para:
 	- a motor
 	- bajo pedido
 
- - otras sugerencias que podais hacer
+  - otras sugerencias que podais hacer
  
  
  Espero que os sea de utilidad.
  
  Saludos!
+
  Rafa
