@@ -76,8 +76,7 @@ Proximamente espero tener tiempo para:
 	- inferior
 	- a motor
 	- bajo pedido
-
-  - otras sugerencias que podais hacer
+  - otras sugerencias que podáis hacer
  
  
  Espero que os sea de utilidad.
