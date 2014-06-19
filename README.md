@@ -1,14 +1,14 @@
-﻿Cable-Carrier-RepRap
+Cable-Carrier-RepRap
 ====================
 
 Small cable carrier for Prusa Iteration 3 (print it yourself!)
 --------------------------------------------------------------
 
-I'm sorry, it's In Spanish ... [I'll translate later]
+I'm sorry, it's In Spanish ... I'll translate later
 
 
 
-# Cable Carrier for RepRap 3D Printers
+# Cable Carrier for RepRap 3D Printers --- Cadena Portacables para impresoras RepRap
 
 Es una cadena portacables de pequeño tamaño para utilizar en una Prusa Iteration 3. 
 El marco no deja mucho espacio para pasar a la cadena, de modo que he diseñado esta 
@@ -22,18 +22,21 @@ La idea de hacer un eslabón abierto es tener la posibilidad de añadir un cable
 un cable sin tener que desmontar toda la cadena. No se si funcionará, pero no se pierde 
 nada pues ambos funcionan bien.
 
+<center>
+**Realmente, el eslabón cerrado punciona mucho mejor que el abierto y es el que os recomiendo utilizar.**</center>
+
 Por el momento dejo los STL para que se prueben y me podais mandar sugerencias.
 
 Nota: A sugerencia de alguien, os dejo también el fichero "fuente" en freecad. Para 
 cambiar las dimensiones hay que abrir los sketches, y cambiar los valores de 
 las restricciones. Quizás he abusado un poco de la geometría, pero ... es tan fácil ;)
 
- ** El autor, *osease yo*, no me hago responsable de los problemas 
-derivados del uso o abuso de la información, ficheros o diseños publicaods por mi. ** 
+ **El autor, *osease yo*, no me hago responsable de los problemas 
+derivados del uso o abuso de la información, ficheros o diseños publicaods por mi.** 
 
 Se prudente en el uso.
 
-Si los datos no se ajustan a la realidad es posible que necesites calibrar TU impresora ;)
+Si los datos no se ajustan a la realidad imprusada es posible que necesites calibrar TU impresora ;)
 
 
 
@@ -54,8 +57,7 @@ Datos aproximados
  
 ## Impresión 
  
-Si las piezas se cogen bien al cristal (o kapton o dm o lo que sea que uses como soporte), 
-es *recomendable* imprimir los eslabones sin usar Brim ni Raft.
+Si las piezas se cogen bien al cristal (o kapton o dm o lo que sea que uses como soporte), es *recomendable* imprimir los eslabones sin usar Brim ni Raft.
 
 Para el caso de tener que usar Brim, he achaflanado las aristas donde pudieran haber 
 interferencia con los restos del Brim y con el "efecto" de la primera capa (que suele ser 
