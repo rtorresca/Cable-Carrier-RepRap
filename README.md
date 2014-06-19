@@ -71,12 +71,12 @@ Os ruego que hagais comentarios y sugerencias para hacer evolucionar el diseño 
 de la máxima utilidad para todos.
 
 Proximamente espero tener tiempo para:
- - el diseño de los anclajes:
+   - el diseño de los anclajes:
 	- superior
 	- inferior
 	- a motor
 	- bajo pedido
-  - otras sugerencias que podáis hacer
+   - otras sugerencias que podáis hacer
  
  
  Espero que os sea de utilidad.
