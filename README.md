@@ -6,7 +6,9 @@ Small cable carrier for Prusa Iteration 3 (print it yourself!)
 
 I'm sorry, it's In Spanish ... I'll translate later
 
-
+[img]
+http://i30.photobucket.com/albums/c343/rafatorresc/efb934ee-ae60-44f1-a96b-42c1645e2461_zps2c6e53f4.png
+[/img]
 
 # Cable Carrier for RepRap 3D Printers --- Cadena Portacables para impresoras RepRap
 
