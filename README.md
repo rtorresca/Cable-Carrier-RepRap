@@ -6,9 +6,8 @@ Small cable carrier for Prusa Iteration 3 (print it yourself!)
 
 I'm sorry, it's In Spanish ... I'll translate later
 
-[img]
-http://i30.photobucket.com/albums/c343/rafatorresc/efb934ee-ae60-44f1-a96b-42c1645e2461_zps2c6e53f4.png
-[/img]
+
+![](http://i30.photobucket.com/albums/c343/rafatorresc/efb934ee-ae60-44f1-a96b-42c1645e2461_zps2c6e53f4.png)
 
 # Cable Carrier for RepRap 3D Printers --- Cadena Portacables para impresoras RepRap
 
@@ -52,14 +51,16 @@ Datos aproximados
  - Altura de la cadena: 10 mm
  - Hueco para cables de 7 mm x 6 mm = 42 - 1 mm2
  - Ángulo de giro por eslabón:  40º
- - Longitud de cadena por eslabón: 9 mm (para calcular los eslabones que necesiteis.
- - Anchura de giro de 180º: 40 mm aprox.
+ - Longitud de cadena por eslabón: 10 mm (para calcular los eslabones que necesiteis.
+ - Anchura de giro de 180º: 42 mm aprox.
 
  
  
 ## Impresión 
  
 Si las piezas se cogen bien al cristal (o kapton o dm o lo que sea que uses como soporte), es *recomendable* imprimir los eslabones sin usar Brim ni Raft.
+
+Para ayudar a la adhesión del eslabón a la mesa, he añadido superficies en zonas que no molestan y que se pueden retirar con facilidad. Con estas superficies es más facil imprimir sin usar Brim.
 
 Para el caso de tener que usar Brim, he achaflanado las aristas donde pudieran haber 
 interferencia con los restos del Brim y con el "efecto" de la primera capa (que suele ser 
