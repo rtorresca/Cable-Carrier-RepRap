@@ -60,7 +60,13 @@ Datos aproximados
  
 Si las piezas se cogen bien al cristal (o kapton o dm o lo que sea que uses como soporte), es *recomendable* imprimir los eslabones sin usar Brim ni Raft.
 
+![](http://i30.photobucket.com/albums/c343/rafatorresc/Mobile%20Uploads/20140622_121259_zpstpk6inaj.jpg)
+Foto: Impresión de 9 eslabones donde se observa que no uso Brim para sujección.
+
 Para ayudar a la adhesión del eslabón a la mesa, he añadido superficies en zonas que no molestan y que se pueden retirar con facilidad. Con estas superficies es más facil imprimir sin usar Brim.
+
+![](http://i30.photobucket.com/albums/c343/rafatorresc/Mobile%20Uploads/20140622_121600_zpsbwobwf7k.jpg)
+Foto: Cadena montada con los eslabones recién impresos, sin limar ni ajustar.
 
 Para el caso de tener que usar Brim, he achaflanado las aristas donde pudieran haber 
 interferencia con los restos del Brim y con el "efecto" de la primera capa (que suele ser 
