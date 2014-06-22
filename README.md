@@ -76,10 +76,7 @@ En principio no debería funcionar mal sin retoques adicionales. Y si no es así
 lima y saneais los eslabones en las zonas achaflanadas. Es posible que algunos errores 
 de impresión impidan a la cadena ponerse completamente recta.... *lima*.
 
-## Agradecimientos y desarrollo posterior
-
-Os ruego que hagais comentarios y sugerencias para hacer evolucionar el diseño y que sea 
-de la máxima utilidad para todos.
+## Desarrollo posterior
 
 Proximamente espero tener tiempo para:
    - el diseño de los anclajes:
@@ -89,6 +86,8 @@ Proximamente espero tener tiempo para:
 	- bajo pedido
    - otras sugerencias que podáis hacer
  
+Os ruego que hagais comentarios y sugerencias para hacer evolucionar el diseño y que sea 
+de la máxima utilidad para todos.
  
  Espero que os sea de utilidad.
  
