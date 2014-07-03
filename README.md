@@ -89,7 +89,7 @@ En la parte inferior de la abrazadera encontrareis dos salientes. Si necesitais 
 
 Proximamente espero tener tiempo para el diseño de los anclajes:
   - a motor [hecho]
-  - al soporte de aluminio de la hotbed. [pronto]
+  - al soporte de aluminio de la hotbed. [muy MUY pronto, casi acabado]
   - a la base del lateral del marco de aluminio. [pronto]
   - al extremo izquierdo del eje X [pronto]
  
