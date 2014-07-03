@@ -76,15 +76,22 @@ En principio no debería funcionar mal sin retoques adicionales. Y si no es así
 lima y saneais los eslabones en las zonas achaflanadas. Es posible que algunos errores 
 de impresión impidan a la cadena ponerse completamente recta.... *lima*.
 
+## Sujección a motor NEMA17
+
+Podeis imprimir las piezas Abrazadera y EslabonFijo para hacer el anclaje del final de la cadena a un motor de dimensiones NEMA17.
+
+Necesitareis un tornillo M3x5mm, arandela y tuerca M3. La tuerca se aloja en el interior de la abrazadera y la arandela y el tornillo en la parte superior del eslabonFijo. Enroscais, orientais el eslabón en la dirección que querais y fijais con un poco de apriete al tornillo.
+
+En la parte inferior de la abrazadera encontrareis dos salientes. Si necesitais fijar la abrazadera con más fuerza podeis probar a colocar una abrazadera de nylon (de las que usamos para agrupar cables, fijar lm8uu, etc) en estas pestañas y tirar hasta obtener la fijación deseada. Esto no lo he probado aun pero pronto lo haré.
+
+
 ## Desarrollo posterior
 
-Proximamente espero tener tiempo para:
-   - el diseño de los anclajes:
-	- superior
-	- inferior
-	- a motor
-	- bajo pedido
-   - otras sugerencias que podáis hacer
+Proximamente espero tener tiempo para el diseño de los anclajes:
+    - a motor [hecho]
+    - al soporte de aluminio de la hotbed. [pronto]
+    - a la base del lateral del marco de aluminio. [pronto]
+    - al extremo izquierdo del eje X [pronto]
  
 Os ruego que hagais comentarios y sugerencias para hacer evolucionar el diseño y que sea 
 de la máxima utilidad para todos.
