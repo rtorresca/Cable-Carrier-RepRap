@@ -11,7 +11,7 @@ Cadena de anchura interior de 12 mm entre pilares D12
 | Anclaje a base del marco    | [tbd]
 
 - wip: work in progress. to be done. started.
-- done: done
-- tbd: to be done but not started
+- done: done.
+- tbd: to be done but not started yet.
 
 
