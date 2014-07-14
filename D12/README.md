@@ -12,6 +12,5 @@ Cadena de anchura interior de 12 mm entre pilares D12
 
 - wip: work in progress. to be done. started.
 - done: done.
-- tbd: to be done but not started yet.
-
+- tbd: to be done but not yet started.
 
